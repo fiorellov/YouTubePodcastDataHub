@@ -234,5 +234,4 @@ This project is intended as:
 ## License
 
 This project is provided for **research and educational purposes**.
-
 ---
