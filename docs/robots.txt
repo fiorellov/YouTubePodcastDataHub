@@ -1,1 +1,1 @@
-Sitemap: https://mbd2.github.io/g2-2024-website/sitemap.xml
+Sitemap: https://mbd2.github.io/YouTubePodcastDataHub/sitemap.xml

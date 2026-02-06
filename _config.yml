@@ -1,45 +1,12 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: "PODCAST - Final Project"
-subtitle: "Master SoBigData"
-email: your-email@example.com
+title: "YouTube Podcast Analysis"
+subtitle: "A Multimodal Study of Audio, Visual, and Engagement Dynamics"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This project analyzes the evolution and performance of podcast content on **YouTube**, combining **audio signal processing**, **natural language processing**, **computer vision**, and **statistical modeling**.
 
-
-# Riportare il github del gruppo di progetto e quello del sito web (se differente).
-# Tali informazioni appariranno nel Footer del sito.
 github_repo:
-  - name: "Group 2 - Project repository"
-    url: "https://github.com/mbd2/g2-2024-website.git"
-  - name: "Group 2 - Website repository"
-    url: "https://github.com/mbd2/g2-2024-website.git"
-
-
-
-
-
+  name: "YouTube Podcast Data Hub "
+  url: "https://fiorellov.github.io"
+  baseurl: "/YouTubePodcastDataHub"
 
 
 navbar:
@@ -128,14 +95,7 @@ footer:
   links:
   - label: "LinkedIn"
     icon: "fab fa-linkedin"
-    url: https://www.linkedin.com/company/sobigdata
-  - label: "Twitter"
-    icon: "fab fa-twitter"
-    url: https://www.twitter.com/sobigdata
-  - label: "Facebook"
-    icon: "fab fa-facebook"
-    url: https://www.facebook.com/sobigdata
-  copyright: "2024 SoBigData Master Projects"
+    url: https://www.linkedin.com/in/fiorello-viteritti/
 
 
 sass:
