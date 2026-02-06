@@ -43,8 +43,6 @@ The project adopts a **data-driven, multimodal approach**, integrating structure
 - Episode title, description, views, likes, duration, publication date
 - Channel-level metadata (subscribers, channel age, total views)
 
-Collected via **Selenium** and **YouTube Data API**.
-
 ### Transcripts
 - Retrieved through YouTube APIs
 - Stored as CSV files for NLP processing
@@ -209,8 +207,7 @@ A clear long-term shift from cooler palettes to **warmer tones**, associated wit
 ## Technologies Used
 
 - Python
-- Selenium
-- YouTube Data API
+- Google API
 - Librosa, Pydub, FFmpeg
 - OpenCV
 - Scikit-learn
@@ -236,7 +233,6 @@ This project is intended as:
 
 ## License
 
-This project is provided for **research and educational purposes**.  
-Please verify licensing constraints for YouTube-derived data before reuse.
+This project is provided for **research and educational purposes**.
 
 ---
